@@ -1,0 +1,22 @@
+print the packages
+
+ask for what package was used 1-3
+
+ask for how many minutes used
+
+if package 1
+  if minutes didnt go over
+    print base amount
+  else
+    calculate the money
+    print the new money amount formatted
+elif package 2
+  if minutes didnt go over
+    print base amount
+  else
+    calculate the money
+    print the new money amount formatted
+elif package 3
+    print base amount
+else
+  print that there was no plan picked and you dont have any bills
