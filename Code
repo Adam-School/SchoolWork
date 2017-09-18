@@ -1,0 +1,12 @@
+ask for input
+
+check for input 1
+	print day 
+
+check for input 2
+	print day 
+
+check for input 3 ect
+	print day 
+
+else print you entered a wrong number
