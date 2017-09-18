@@ -1,0 +1,12 @@
+ask for input
+
+check for the number 1 - 10 using 
+if number == 1: 
+  print('I')
+elif number == 2:
+  print('II')
+ect...
+
+then after all numbers from 1- 10 do 
+else 
+  print wrong number
