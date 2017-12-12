@@ -1,0 +1,25 @@
+Barbarian: is a primal warrior who prefers to charge in to engage foes in melee.
+
+Bard: uses music and magic to support and inspire the rest of the party.
+
+Claric: uses divine magic, as the name suggests, is the power of the gods, flowing from
+them into the world. Clerics are conduits for that power, manifesting it as miraculous effects.
+
+Druids: wield the power of nature against their foes.
+
+Fighters: learn the basics of all combat styles.
+
+Monks: magically harness the energy that flows through their bodies.
+
+Paladins: A holy warrior bound to a sacred oath.
+
+Ranger: A warrior who uses martial prowess and nature magic to control threats on the
+edge of civilization.
+
+Rouge: A scoundrel who uses stealth and trickery to overcome obstacles and enemies.
+
+Sorcerer: A spellcaster who draws on inherent magic from a gift or bloodline.
+
+Warlock: A wielder of magic that is derived from a bargain with an extraplaner entity.
+
+Wizard: A schoolary magic-user capable of manipulating the structures of reality.

@@ -1,0 +1,90 @@
+You have to choose a path to continue down.
+=====================================================================================================
+                                         Path Description:
+                                         -----------------
+Path of Berserker: For some barbarians, rage is a means to an end--that end being violence.
+The path of Berserker is a path of untrammeled fury, slick with blood. As you enter the beserker's
+rage, you thrill in the chaos of battle, heedless of your own health or well being.
+=====================================================================================================
+                                         Features:
+                                         ---------
+Level 3 Barbarian:
+------------------
+Frenzy: You can go into a frenzy when you rage. If you do so, for the duration of your rage you can
+make a single melee weapon attack as a bonus action on each of your turns after this one.
+When your rage ends, you suffer one level of exhaustion.
+Level 6 Barbarian:
+------------------
+Mindless Rage: You can't be charmed or frightened while raging. If you are charmed or frightened when
+you enter your rage, the effect is suspended for the duration of the rage.
+Level 10 barbarian:
+-------------------
+Intimidating Presence: You can use your action to frighten someone with your menacing presense.
+When you do so, choose one creatue that you can see within 30 feet of you. If the creature can see
+or hear you, it must succeed on a Wisdom saving throw equal to 8+ your proficiency bonus or be
+frightened of you until the end end of your next turn. On subsequent turns, you can use your action
+to extend the duration of this effect on the frightened creature until end of your next turn.
+This effect ends if the creature ends it's turn out of line of sight or more than 60 feet away
+If the creature succedes on it's saving throw, you cant use this feature on that creature again
+for 24 hours
+Level 14 Barbarian:
+-------------------
+Retaliation: When you take damage from a creature that is within 5 feet of you, you can use you'r
+reaction to make a melee weapon attack against that creature.
+=====================================================================================================
+                                         Exhaustion:
+                                         -----------
+Level 1: Disavantages on Ability Checks.
+Level 2: Speed halved.
+Level 3: Disadvantage on Attack rolls and saving throws
+Level 4: Hit point maximum halfed
+Level 5: Speed reduced to 0
+Level 6: Death
+=====================================================================================================
+                                         Path Description:
+                                         -----------------
+Path of the Totem Warrior: Is a spiritual journey, as the barbarian accepts a spirit animal as guide,
+protector, and inspiration. In battle, your totem spirit fills you with supernatural might, adding
+magical fuel to your barbarian rage. Most barbarian tribes consider a totem animal to be kin to a
+particular clan. In such cases, it is unusual for an individual to have more than one totem animal
+spirit, though exceptions exist.
+=====================================================================================================
+                                         Features:
+                                         ---------
+Level 3 Barbarian:
+------------------
+Spirit Seeker: You gain the ability to cast the beast sense and speak with animals spells, but only
+as rituals.
+--------------
+Totem Spirit: Choose a totem spirit and gain it's feature.
+Bear: While raging, you have resistance to all damageexcept psychic damage.
+Eagal: While you're raging and aren't wearingheavy armor, other creatures have disadvantages on
+opportunity attack rolls against you, and you can use the Dash action as a bonus action on your turn.
+Wolf: While you're raging, your friends have advantage on melee attack rolls against any creature
+within 5 ft of you that is hostile to you.
+Level 6 Barbarian:
+-------------------
+Aspect of the Beast: Choose a animal.
+Bear: You gain the might of a bear. Your carrying capacity(including maximum loadand maximum lift) is
+doubled, and you have advantages on Strength checks made to push, pull, lift, or break objects.
+Eagal: You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able
+to discern even fine details as though looking at something no more than 100 ft away from you.
+Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
+Wolf: You gain the hunting sensibilities of a wolf. You can track other creatures while
+traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
+Level 10 Barbarian:
+-------------------
+You can cast the communicate with nature spell, but only as a ritual. When you do so, a spiritual
+version of one of the animals you chose for Totem Spirit or Aspect of the Beast appears to you
+to convey the information you seek.
+Level 14 Barbarian:
+-------------------
+Totemic Attunement: You gain a magical benefit based on a totem animal of your choice.
+You can choose the same animal you selected previously or a different one.
+Bear: While you're raging any creature within 5 feet of you that's hostile to you has disadvantage on attack
+rolls against targets other than you or another character with this feature.
+An enemy is immune to this effect if it can't see or hear you or if it can't be frightened.
+Eagle: While raging you have a flying speed equal to your current walking speed. This benefit works only
+in short bursts; you fall if you end your turn in the air and nothing else is holding you aloft.
+Wolf: While you're raging you can use a bonus action on your turn to knock a Large or smaller
+creature prone when you hit it with melee weapon attack.

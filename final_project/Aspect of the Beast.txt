@@ -1,0 +1,8 @@
+Aspect of the Beast: Choose a animal.
+Bear: You gain the might of a bear. Your carrying capacity(including maximum loadand maximum lift) is
+doubled, and you have advantages on Strength checks made to push, pull, lift, or break objects.
+Eagal: You gain the eyesight of an eagle. You can see up to 1 mile away with no difficulty, able
+to discern even fine details as though looking at something no more than 100 ft away from you.
+Additionally, dim light doesn't impose disadvantage on your Wisdom (Perception) checks.
+Wolf: You gain the hunting sensibilities of a wolf. You can track other creatures while
+traveling at a fast pace, and you can move stealthily while traveling at a normal pace.
