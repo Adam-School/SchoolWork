@@ -2039,6 +2039,7 @@ def main():
             if player.getHealth() <= 0:
                 print('You died')
                 end = 0
+                exit()
             if enemy.getHealth() <= 0:
                 print('You slayed the ',enemy.getName())
                 print('')
@@ -2160,6 +2161,7 @@ def main():
                         print('You died')
                         end = 0
                         tempVar = 0
+                        exit()
                     if enemy.getHealth() <= 0:
                         print('You slayed the ',enemy.getName())
                         print('')
